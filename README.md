@@ -2,16 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Required node version is: >= v16.15.1
+
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
+1. clone the project in git: git clone https://github.com/priyankamackwan/new-react-test.git 
+
+2. npm install
+
+3. npm run dev or yarn dev or pnpm dev
+
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
